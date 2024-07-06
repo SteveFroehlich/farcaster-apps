@@ -1,4 +1,4 @@
-# Dev container experiments
+# Dev container experiments. No Farcaster yet
 
 At the moment the image just runs a flask app.
 It can be build via:
